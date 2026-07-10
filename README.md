@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Souza Santos 👋
+# Gabriel Souza Santos 
 
 **Software Engineer & Builder | Automação, IA e Arquitetura de Soluções**
 
