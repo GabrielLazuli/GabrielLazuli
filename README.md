@@ -16,6 +16,6 @@ Cientista da computação em formação pela UESC, movido pela construção de s
 * **Ferramentas:** Git/GitHub, Unity
 
 ### 📫 Como me encontrar
-- 💼 [LinkedIn](www.linkedin.com/in/gabriel-souza-santos-4750b6384)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-souza-santos-4750b6384/)
 - 🌐 [Portfólio](https://v0-portifolio-gabriel-api.vercel.app/)
 - 🎥 [YouTube - Os Primos Dev](https://youtube.com/shorts/fcOyVlFRwlo?si=RqiYSQi4YUkfuhZx)
