@@ -36,4 +36,4 @@ Cientista da computação em formação pela UESC, movido pela construção de s
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-santos-4750b6384/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portifolio-gabriel-api.vercel.app/)
-[![YouTube](https://img.shields.io/badge/Os_Primos_Dev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/shorts/fcOyVlFRwlo?si=RqiYSQi4YUkfuhZx)
+[![YouTube](https://img.shields.io/badge/Os_Primos_Dev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/shorts/bOm7X3alrT4)
