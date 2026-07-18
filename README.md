@@ -32,8 +32,8 @@ Cientista da computação em formação pela UESC, movido pela construção de s
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-### 📫 Como me encontrar  
+### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-santos-4750b6384/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portifolio-gabriel-api.vercel.app/)
-[![YouTube](https://img.shields.io/badge/Os_Primos_Dev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/shorts/bOm7X3alrT4)
+[![YouTube](https://img.shields.io/badge/Os_Primos_Dev-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/shorts/cq01FqKedPw)
