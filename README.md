@@ -10,6 +10,7 @@ Cientista da computação em formação pela UESC, movido pela construção de s
 * **Engenharia de Software (C#):** Aplicando lógicas avançadas de arquitetura orientada a eventos, padrões de projeto e gerenciamento de estado na construção de mecânicas complexas para jogos em Unity 6 (Projeto Guaxo / Os Primos Dev).
 * **Pesquisa Acadêmica e IoT (Iniciação Científica):** Explorando a aplicação prática de microcontroladores e IA no agronegócio. O projeto levanta requisitos e estrutura soluções tecnológicas que sejam acessíveis para todos os produtores, conectando a fundamentação teórica da computação com a execução em hardware.
 
+
 ### 🛠️ Minha Stack Principal
 
 **Linguagens**  
