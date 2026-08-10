@@ -1,37 +1,35 @@
 # Gabriel Souza Santos 👋
 
-**Software Engineer & Builder | Automação, IA e Arquitetura de Soluções**
+**Software Engineer & Builder | React Native, Python & IA**
 
-Cientista da computação em formação pela UESC, movido pela construção de soluções escaláveis e eficientes. Mais do que escrever código, busco entender a fundo a regra de negócio para arquitetar a melhor tecnologia possível. Atuo na criação de produtos digitais, integrações de Inteligência Artificial e automação de processos, sempre com foco em resolver problemas reais e gerar impacto.
+Cientista da Computação em formação pela UESC, movido pela construção de soluções escaláveis e eficientes. Mais do que escrever código, busco entender a fundo a regra de negócio para arquitetar a melhor tecnologia possível. 
+
+Minha principal força como desenvolvedor é atuar na ótica de "usuário zero": identificar problemas reais no meu cotidiano e construir a solução de ponta a ponta, desde a arquitetura de software até a entrega do produto final. 
 
 ### 🚀 O que eu ando construindo
-* **Integração de Inteligência Artificial:** Ecossistema de IA para Gestão de Vendas (Faznoauto): Plataforma desenvolvida para que donos de negócios automatizem o atendimento e a logística. A solução integra agentes autônomos (Gemini) ao WhatsApp (Evolution API) e a planilhas de controle, permitindo que a IA feche vendas, reserve horários na agenda e dê baixa no estoque em tempo real durante a conversa com o cliente.
-* **Desenvolvimento de Produtos Reais:** Estruturando a infraestrutura técnica e o ecossistema completo de aplicativos de logística e delivery voltados para o comércio local da minha cidade (Macuco Entregas).
-* **Engenharia de Software (C#):** Aplicando lógicas avançadas de arquitetura orientada a eventos, padrões de projeto e gerenciamento de estado na construção de mecânicas complexas para jogos em Unity 6 (Projeto Guaxo / Os Primos Dev).
-* **Pesquisa Acadêmica e IoT (Iniciação Científica):** Explorando a aplicação prática de microcontroladores e IA no agronegócio. O projeto levanta requisitos e estrutura soluções tecnológicas que sejam acessíveis para todos os produtores, conectando a fundamentação teórica da computação com a execução em hardware.
 
+* **Macuco Entregas (App Mobile):** Liderando o desenvolvimento front-end de um ecossistema completo de logística e delivery voltado para suprir a carência do comércio local em cidades do interior. Arquitetura construída do zero utilizando **React Native, TypeScript e Tailwind CSS**, com forte tipagem de dados e consumo de APIs.
+* **CacauBot (Inovação Tecnológica):** Projeto oficial de pesquisa aprovado pela universidade que integra **Python, IA Conversacional e Processamento de Voz**. O objetivo é democratizar o acesso à cotação do cacau para todos os produtores rurais através de interações simples por áudio.
+* **Faznoauto (Automação & IA):** Plataforma de mensageria construída para que donos de negócios automatizem o atendimento e a logística. A solução utiliza **Python, Selenium e a API do Gemini** para criar agentes autônomos que fecham vendas, reservam horários e gerenciam demandas em tempo real.
+* **Os Primos Dev (Gamedev & Comunidade):** Desenvolvimento do jogo independente utilizando **C# e Unity 6**, aplicando arquitetura orientada a eventos e mecânicas complexas. Em paralelo, gerencio a comunidade do projeto que hoje ultrapassa a marca de 1,5 milhão de visualizações mensais, traduzindo lógica de programação de forma acessível.
 
 ### 🛠️ Minha Stack Principal
 
-**Linguagens**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+**📱 Mobile & Front-end**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,html,css" alt="Mobile and Front-end Stack" />
+</a>
 
-**Web & Front-end**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**⚙️ Back-end, Lógica & Automação**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cs,c,cpp,java" alt="Back-end Stack" />
+</a>  
+> *Forte atuação com integrações de APIs de LLMs (Google Gemini) e automação web (Selenium).*
 
-**Ecossistema & Ferramentas**  
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+**🎮 Game Dev & Controle de Versão**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity,git,github" alt="Tools and Gamedev" />
+</a>
 
 ### 📫 Como me encontrar
 
