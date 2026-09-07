@@ -26,10 +26,6 @@ Minha principal força como desenvolvedor é atuar na ótica de "usuário zero":
 </a>  
 > *Forte atuação com integrações de APIs de LLMs (Google Gemini) e automação web (Selenium).*
 
-**🎮 Game Dev & Controle de Versão**  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,git,github" alt="Tools and Gamedev" />
-</a>
 
 ### 📫 Como me encontrar
 
